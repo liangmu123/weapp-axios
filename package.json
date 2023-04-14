@@ -1,0 +1,26 @@
+{
+  "name": "weapp-axios",
+  "version": "1.0.0",
+  "description": "基于axios开发的小程序请求适配器",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangmu123/weapp-axios.git"
+  },
+  "keywords": [
+    "axios",
+    "wx",
+    "request"
+  ],
+  "author": "shuping.yuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangmu123/weapp-axios/issues"
+  },
+  "homepage": "https://github.com/liangmu123/weapp-axios#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
